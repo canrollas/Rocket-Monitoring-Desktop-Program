@@ -1,0 +1,12 @@
+/* This is general style of the application */
+
+QLabel{
+    color : white;
+}
+
+QWidget#centralWidget{
+    background-color: #2c2c2c;
+}
+
+
+
